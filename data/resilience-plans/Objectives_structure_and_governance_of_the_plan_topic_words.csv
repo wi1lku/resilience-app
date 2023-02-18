@@ -1,0 +1,61 @@
+,word,topic_id,importance,word_count
+10,rrp,1,0.014513788,149
+20,rrp,2,0.0144951735,149
+40,rrp,4,0.01413019,149
+50,rrp,5,0.012771007,149
+30,rrp,3,0.012619502,149
+0,rrp,0,0.011266023,149
+41,policy area,4,0.008752918,81
+51,policy area,5,0.008354976,81
+31,policy area,3,0.008272225,81
+42,eu average,4,0.0071588666,60
+11,public sector,1,0.0068016425,57
+1,policy area,0,0.0062216213,81
+12,policy area,1,0.0061236434,81
+32,eu average,3,0.006063903,60
+21,policy area,2,0.0059038047,81
+22,health system,2,0.005778881,54
+13,eur million,1,0.0057658507,54
+43,young people,4,0.0056290776,39
+52,public sector,5,0.0055676163,57
+14,health system,1,0.0055334386,54
+53,health system,5,0.00547835,54
+23,renewable energy,2,0.0054659816,54
+54,cohesion policy,5,0.0053571174,51
+24,gender equality,2,0.005285067,48
+44,communication strategy,4,0.0052514374,48
+25,eur million,2,0.0052240873,54
+26,eu average,2,0.0050969,60
+27,cohesion policy,2,0.005050088,51
+2,eur million,0,0.005046649,54
+28,communication strategy,2,0.0050411467,48
+3,renewable energy,0,0.0050141183,54
+45,renewable energy,4,0.004973456,54
+46,public sector,4,0.0049468745,57
+47,hydrogen,4,0.0049452474,41
+4,research innovation,0,0.004862357,48
+55,eu average,5,0.004856317,60
+15,eu average,1,0.0048420406,60
+33,implementation phase,3,0.004835331,42
+16,renewable energy,1,0.0048334184,54
+48,ministry finance,4,0.004818179,48
+34,research innovation,3,0.0047809295,48
+29,research innovation,2,0.0047646263,48
+56,ministry finance,5,0.004741179,48
+17,gender equality,1,0.0047368454,48
+35,public transport,3,0.004694034,39
+5,sustainable transport,0,0.0046866587,42
+36,renewable energy,3,0.004643929,54
+57,sustainable transport,5,0.0046026506,42
+6,cohesion policy,0,0.0046004103,51
+49,eur million,4,0.004507759,54
+37,eur million,3,0.0044717146,54
+7,eu average,0,0.0044345134,60
+38,cohesion policy,3,0.0044323495,51
+39,public sector,3,0.0044068326,57
+8,public sector,0,0.0043992135,57
+9,equal opportunity,0,0.004386606,42
+18,cohesion policy,1,0.004368065,51
+19,ministry finance,1,0.0043599755,48
+58,renewable energy,5,0.004323632,54
+59,eur million,5,0.004238276,54
